@@ -37,4 +37,10 @@ public class calculatorTest {
 		assertEquals(0, calc.subtract(20, 10, 10));
 		
 	}
+	
+	@Test
+	public void divideTwoNumbers() {
+		assertEquals(10, 0);
+		
+	}
 }
