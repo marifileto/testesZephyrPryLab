@@ -1,4 +1,4 @@
-package testesXrayPryLab;
+package testesZephyrPryLab;
 
 import static org.junit.Assert.assertEquals;
 
