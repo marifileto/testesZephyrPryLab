@@ -38,9 +38,4 @@ public class calculatorTest {
 		
 	}
 	
-	@Test
-	public void divideTwoNumbers() {
-		assertEquals(10, 0);
-		
-	}
 }
